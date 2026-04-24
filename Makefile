@@ -4,7 +4,7 @@ build:
 	docker build -t drivetime .
 
 test:
-	docker run --rm -v "${PWD}/test":/tmp drivetime my_address_file_geocoded.csv cchmc
+	docker run --rm -v "${PWD}/test":/tmp drivetime my_address_file_geocoded_drivetime_choablank.csv choablank
 
 shell:
 	docker run --rm -it --entrypoint=/bin/bash -v "${PWD}/test":/tmp drivetime
