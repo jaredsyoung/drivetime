@@ -80,7 +80,6 @@ Children's Hospital Los Angeles |	`chla`
 Monroe Carell Jr. Children's Hospital at Vanderbilt |	`vandy`
 Children’s Healthcare of Atlanta, Arthur M Blank Hospital |	`choablank`
 
-
 ## Geomarker Methods
 
 **drive time**
